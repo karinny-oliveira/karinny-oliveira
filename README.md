@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @karinny-oliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌙 Oi, meu nome é karinny
+- 👀 Atualmente interessada em programação 
+- 🌱 Estou aprendendo Python,
+- 💞️ Espero me especializar e aprender ao máximo sobre programação, sou apaixonada, de verdade!!
+
 
 <!---
 karinny-oliveira/karinny-oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
